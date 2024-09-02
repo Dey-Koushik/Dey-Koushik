@@ -1,19 +1,19 @@
 <h1 align="center">Hi , I'm Koushik Dey </h1>
-<h3 align="center">Pushing Boundaries in Frontend Development, Machine Learning, Reinforcement Learning, and Robotics</h3>
+<h3 align="center">Good at Machine Learning, Coding and Robotics</h3>
 <img align='right' src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="400">
 
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"></h2> 
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taznia&label=Profile%20views&color=0e75b6&style=flat" alt="taznia" /> </p>
 <h3 align="left">About Me :</h3>
-- 🐢 I’m currently working on **Axelia (A quadruped robot dog)**
+-  I’m currently working on **Axelia (A quadruped robot dog)**
 
-- 📕 I’m currently learning **Tensorflow, Matlab**
+-  I’m currently learning **Tensorflow, PyTorch**
 
-- 🤔 Ask me about **Flutter, ROS2**
+-  Ask me about **Flutter, Python**
 
-- 📧 How to reach me **tabassumtaznia14@gmail.com**
+-  How to reach me **koushikdeynghs@gmail.com**
 
-- 🎉 Fun fact **about me is the underneath meaning of my name is happiness 🥰🥰!!**
+- 🎉 Fun fact **about me is the underneath meaning of my name is peace !!**
 
 <h3 align="left">Connect With Me ☎️:</h3>
 <p align="left">
