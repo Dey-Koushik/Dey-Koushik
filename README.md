@@ -5,9 +5,9 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taznia&label=Profile%20views&color=0e75b6&style=flat" alt="taznia" /> </p>
 <h3 align="left">About Me :</h3>
--  I’m currently working on **Axelia (A quadruped robot dog)**
+- 
 
--  I’m currently learning **Tensorflow, PyTorch**
+-  I’m currently learning **Tensorflow, PyTorch** and others Artifical intellegence tools.
 
 -  Ask me about **Flutter, Python**
 
